@@ -6,14 +6,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  font-family: "Roboto", sans-serif;
+  font-family: "Karla", sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
   overflow: hidden;
-  margin: 0;
+  background-color: #0b2434;
+  padding: 20px;
 }
 
 code {
